@@ -1,0 +1,22 @@
+---
+---
+
+@import "main";
+@import "nav";
+body{
+  background-color: #313866;
+  color: #FE7BE5;
+  font-family: "Inter";
+  padding: 100px;
+}
+html, body{
+  font-size: 16px;
+  width: 100%;
+  height: 100%;
+}
+a{
+  color: #974EC3;
+}
+a:visited{
+  text-decoration: none;
+}

@@ -1,0 +1,13 @@
+.navbar{
+  background-color:#504099;
+  border:1px solid grey;
+  z-index: 1;
+  box-shadow: 1px 1px 5px rgba(0,0,0,.5);
+}
+#main{
+  box-sizing: border-box;
+  width: 75%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
